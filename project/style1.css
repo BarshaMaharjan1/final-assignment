@@ -1,0 +1,36 @@
+
+body{
+	background-image: url(image/0000.png);
+		background-attachment: fixed;
+}
+.row{
+	margin-bottom: 15px;
+}
+img{
+	border-radius: 5px;
+	box-shadow: 0 15px 30px #000000;
+}
+footer p{
+ 	
+	    color: white;
+	}
+
+.navbar{
+	padding: .8rem;
+}
+.navbar-nav li{
+	padding-right: 20px;
+}
+.nav-link{
+	font-size:  1.1em !important; 
+
+}
+
+
+#main img{
+	width: 100%;
+	margin-top: 10px;
+}
+#main img:hover{
+	transform: scale(1.1);
+}

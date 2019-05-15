@@ -1,0 +1,44 @@
+
+
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+body{
+	background-image:url(image/39.png);
+		background-attachment: fixed;
+
+}
+
+
+p{
+	color: white;
+}
+th{
+	color: white;
+}
+td{
+	color: white;
+}
+hr .light{
+	border-top: 1px solid #d5d5d5;
+	width: 75%;
+	margin-top: .8rem;
+	margin-bottom: 1rem; 
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}

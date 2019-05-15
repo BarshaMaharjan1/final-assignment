@@ -1,0 +1,25 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.wrapper{
+	width: 960px;
+	min-height: 1000px;
+	margin:auto auto;
+	border:1px solid black;
+}
+.col{
+	float: right;
+	padding:10px;
+	text-align:justify;
+	padding-right: 50px;
+}
+.col1{
+	padding: 50px;
+	padding-top: 200px;
+
+}
+.col2{
+	padding: 50px;
+}
+

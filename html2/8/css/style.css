@@ -1,0 +1,12 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+p{
+	color: red;
+	width: 500px;
+	
+}
+p,li,h1{
+	color: red;
+}

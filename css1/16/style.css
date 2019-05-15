@@ -1,0 +1,23 @@
+*{
+	margin: 0px;
+	padding:0px;
+}
+.wrapper{
+	width: 800px;
+	min-height: 801px;
+	margin:auto auto;
+	}
+	.row{
+		min-height: 25px;
+	}
+	.box{
+		width: 100px;
+		height:100px;
+		padding: 20px ;
+		background:rgba(0,0,0,8.5);
+				margin:20px 0; 
+	
+		background-image: url();
+		 
+		opacity: 8.5;
+	}

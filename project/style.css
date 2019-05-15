@@ -1,0 +1,56 @@
+
+body{
+	background-image: url(image/136.png);
+		background-attachment:fixed;
+
+}
+
+
+.container{
+	
+}
+
+h1{
+	
+	font-size: 60px;
+	 text-align: center;
+	 color:white;
+}
+.navbar{
+	padding: .8rem;
+}
+.navbar-nav li{
+	padding-right: 20px;
+}
+.nav-link{
+	font-size:  1.1em !important; 
+
+}
+#slider.item{
+	height: 100px;
+}
+.inner{
+	overflow: hidden;
+
+}
+.inner img{
+	transition: all 1.5s ease;
+
+}
+.inner:hover img{
+transform: scale(1.5);	
+} footer p{
+ 	
+	   
+	    color: white;
+	}
+	hr.light-100{
+	border-top: 1px solid #d5d5d5;
+	width: 100%;
+	margin-top: .8rem;
+	margin-bottom: 1rem; 
+	
+}
+p{
+	color: white;
+}
